@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Intraoral camera</title>
+  <desc id="desc">Illustration of a handheld intraoral camera wand with a lighted lens and a dental image monitor.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#dcecff"/></linearGradient>
+    <linearGradient id="wand" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#cbd9eb"/></linearGradient>
+  </defs>
+  <rect width="720" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="108" cy="91" r="78" fill="#d2e8ff" opacity=".62"/>
+  <ellipse cx="370" cy="366" rx="230" ry="26" fill="#b7cce5" opacity=".55"/>
+  <rect x="394" y="82" width="210" height="149" rx="18" fill="#122e56" stroke="#6e8bac" stroke-width="7"/>
+  <rect x="410" y="98" width="178" height="116" rx="10" fill="#d8f1f6"/>
+  <path d="M432 173q24-45 48-1 24-47 48 1 23-42 47-1v26H432Z" fill="#fff" stroke="#57b8d4" stroke-width="4"/>
+  <path d="M473 135c8-11 18-11 25 0M520 135c8-11 18-11 25 0" fill="none" stroke="#53bde1" stroke-width="5" stroke-linecap="round"/>
+  <rect x="482" y="231" width="38" height="17" rx="7" fill="#7f9ab9"/>
+  <path d="M223 289c47 28 84 31 131 21 31-7 58-29 76-51" fill="none" stroke="#5b7c9f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M153 270l76-104q11-15 27-4l21 14q15 10 4 25l-75 107q-11 16-27 5l-22-16q-16-11-4-27Z" fill="url(#wand)" stroke="#718eaf" stroke-width="6"/>
+  <path d="M154 272l-31 43" stroke="#718eaf" stroke-width="14" stroke-linecap="round"/>
+  <path d="M123 315l-28 39" stroke="#526f91" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="91" cy="359" rx="16" ry="10" transform="rotate(-55 91 359)" fill="#122e56"/>
+  <circle cx="91" cy="359" r="6" fill="#52c4e7"/>
+  <circle cx="251" cy="176" r="7" fill="#4ec4e8"/>
+  <path d="M284 209l-25 35" stroke="#9bb1cc" stroke-width="4" stroke-linecap="round"/>
+</svg>

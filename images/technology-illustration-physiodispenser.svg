@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Implant physiodispenser</title>
+  <desc id="desc">Illustration of an implant motor control unit with speed display, irrigation controls, handpiece, and foot pedal.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#dcecff"/></linearGradient>
+    <linearGradient id="case" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#cbd9eb"/></linearGradient>
+  </defs>
+  <rect width="720" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="572" cy="85" r="91" fill="#d2e8ff" opacity=".62"/>
+  <ellipse cx="353" cy="369" rx="237" ry="27" fill="#b7cce5" opacity=".6"/>
+  <path d="M126 171q0-29 30-29h307q29 0 29 29v166H126Z" fill="url(#case)" stroke="#738faf" stroke-width="7"/>
+  <rect x="159" y="173" width="157" height="63" rx="11" fill="#122e56"/>
+  <rect x="170" y="184" width="135" height="41" rx="7" fill="#c9f5f6"/>
+  <text x="238" y="211" text-anchor="middle" fill="#126d91" font-family="Arial,sans-serif" font-size="22" font-weight="700">40,000</text>
+  <text x="237" y="257" text-anchor="middle" fill="#526f91" font-family="Arial,sans-serif" font-size="13" font-weight="700">RPM</text>
+  <circle cx="384" cy="210" r="38" fill="#e8f0fb" stroke="#7894b5" stroke-width="7"/>
+  <circle cx="384" cy="210" r="20" fill="#55c2e6"/>
+  <path d="M384 210l12-14" stroke="#12345d" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="170" cy="289" r="11" fill="#55c2e6"/>
+  <circle cx="208" cy="289" r="11" fill="#8ea6c3"/>
+  <circle cx="246" cy="289" r="11" fill="#8ea6c3"/>
+  <text x="338" y="294" fill="#526f91" font-family="Arial,sans-serif" font-size="12" font-weight="700">TORQUE</text>
+  <text x="414" y="294" fill="#526f91" font-family="Arial,sans-serif" font-size="12" font-weight="700">FLOW</text>
+  <path d="M485 191c56-5 70 18 86 42" fill="none" stroke="#55789f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M569 229l28-71q7-16 22-10l16 7q15 7 8 23l-27 67q-7 15-22 9l-17-7q-15-7-8-22Z" fill="url(#case)" stroke="#718eaf" stroke-width="6"/>
+  <path d="M605 249l-22 72" stroke="#526f91" stroke-width="9" stroke-linecap="round"/>
+  <path d="M584 321l-12 30" stroke="#12345d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M460 320v25h-20" fill="none" stroke="#607f9f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M446 345c-33 14-47 28-45 42" fill="none" stroke="#607f9f" stroke-width="6" stroke-linecap="round"/>
+  <rect x="336" y="337" width="104" height="20" rx="10" fill="#718eaf"/>
+</svg>

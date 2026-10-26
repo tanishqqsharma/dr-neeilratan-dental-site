@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Electronic apex locator</title>
+  <desc id="desc">Illustration of an apex locator with a digital canal-length display, lead wires, and file clip.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#dcecff"/></linearGradient>
+    <linearGradient id="case" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d4e1f1"/></linearGradient>
+  </defs>
+  <rect width="720" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="120" cy="102" r="78" fill="#d4e9ff" opacity=".7"/>
+  <ellipse cx="360" cy="366" rx="222" ry="28" fill="#b7cce5" opacity=".6"/>
+  <path d="M218 101q0-22 22-22h239q22 0 22 22v235q0 24-22 24H240q-22 0-22-24Z" fill="url(#case)" stroke="#7692b4" stroke-width="7"/>
+  <rect x="254" y="111" width="211" height="105" rx="16" fill="#122e57"/>
+  <rect x="268" y="125" width="183" height="77" rx="10" fill="#c9f5f6"/>
+  <path d="M285 179h25l19-13 16 8 20-28 17 12 20-16 28 5" fill="none" stroke="#14a6c9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="359" y="151" text-anchor="middle" fill="#102d56" font-family="Arial,sans-serif" font-size="13" font-weight="700">APEX</text>
+  <circle cx="276" cy="262" r="14" fill="#4bc1e7"/>
+  <circle cx="323" cy="262" r="14" fill="#9eb3cd"/>
+  <circle cx="370" cy="262" r="14" fill="#9eb3cd"/>
+  <circle cx="417" cy="262" r="14" fill="#9eb3cd"/>
+  <path d="M277 346c-87 13-130 10-169-15-35-22-38-63-4-82 24-14 53-8 71 9" fill="none" stroke="#4e739e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M423 346c95 13 151-14 159-69 7-49-40-66-76-43" fill="none" stroke="#25afd5" stroke-width="7" stroke-linecap="round"/>
+  <path d="M105 251l-19 21 18 18 20-19" fill="#fff" stroke="#4e739e" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M516 232l22-19 18 18-20 20" fill="#fff" stroke="#25afd5" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M538 224l32-74" stroke="#748eae" stroke-width="6" stroke-linecap="round"/>
+  <path d="M571 149l11-22" stroke="#112e56" stroke-width="4" stroke-linecap="round"/>
+</svg>

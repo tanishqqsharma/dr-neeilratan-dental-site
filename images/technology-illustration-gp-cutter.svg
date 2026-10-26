@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Heated gutta-percha cutter</title>
+  <desc id="desc">Illustration of an electric endodontic heat cutter with a fine heated tip and gutta-percha filling points.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#dcecff"/></linearGradient>
+    <linearGradient id="handle" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#cbd9eb"/></linearGradient>
+  </defs>
+  <rect width="720" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="591" cy="93" r="86" fill="#d2e8ff" opacity=".62"/>
+  <ellipse cx="364" cy="366" rx="228" ry="26" fill="#b7cce5" opacity=".56"/>
+  <path d="M179 295c68 50 141 54 208 28 68-26 102-77 142-131" fill="none" stroke="#57799e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M156 259l71-125q10-18 28-8l30 17q17 10 7 28l-70 124q-10 18-28 8l-30-17q-18-10-8-27Z" fill="url(#handle)" stroke="#718eaf" stroke-width="6"/>
+  <path d="M247 156l36 20" stroke="#55bfe5" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="247" cy="225" r="11" fill="#56c3e7"/>
+  <path d="M263 245l24 14" stroke="#91a9c6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M150 267l-38 58" stroke="#536f90" stroke-width="10" stroke-linecap="round"/>
+  <path d="M112 325l-26 40" stroke="#7d96b4" stroke-width="5" stroke-linecap="round"/>
+  <path d="M85 365l-7 18" stroke="#ef9b56" stroke-width="7" stroke-linecap="round"/>
+  <path d="M475 198l33-39" stroke="#718eaf" stroke-width="9" stroke-linecap="round"/>
+  <path d="M508 159l20-25" stroke="#526f91" stroke-width="5" stroke-linecap="round"/>
+  <path d="M529 133l9-12" stroke="#ef9b56" stroke-width="7" stroke-linecap="round"/>
+  <path d="M553 249v95m30-112v112m30-127v127" stroke="#e7a46e" stroke-width="10" stroke-linecap="round"/>
+  <path d="M545 344h46m-38 13h30m-8-25v25" stroke="#738eae" stroke-width="5" stroke-linecap="round"/>
+  <path d="M531 105q18-16 36 0m-25-25q30-28 60 0" fill="none" stroke="#f0a15c" stroke-width="5" stroke-linecap="round"/>
+</svg>

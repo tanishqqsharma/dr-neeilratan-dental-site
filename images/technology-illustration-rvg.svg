@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Digital dental X-ray unit</title>
+  <desc id="desc">Illustration of an intraoral X-ray unit with an articulated arm and tube head.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#dcecff"/></linearGradient>
+    <linearGradient id="metal" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#c8d8ed"/></linearGradient>
+  </defs>
+  <rect width="720" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="590" cy="86" r="92" fill="#d2e8ff" opacity=".58"/>
+  <path d="M74 362h572" stroke="#c2d5ea" stroke-width="4" stroke-linecap="round"/>
+  <path d="M170 90v216q0 20 20 20h96" fill="none" stroke="#8ca7c7" stroke-width="24" stroke-linecap="round"/>
+  <path d="M170 90v210q0 12 14 12h103" fill="none" stroke="#eaf2fc" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="170" cy="91" r="27" fill="#fff" stroke="#7896ba" stroke-width="8"/>
+  <circle cx="170" cy="91" r="8" fill="#55bfe9"/>
+  <path d="M281 311h155" fill="none" stroke="#809bbd" stroke-width="19" stroke-linecap="round"/>
+  <path d="M281 306h154" fill="none" stroke="#eff6ff" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="435" cy="311" r="19" fill="#fff" stroke="#7896ba" stroke-width="7"/>
+  <path d="M436 311l58-54" stroke="#809bbd" stroke-width="18" stroke-linecap="round"/>
+  <path d="M436 306l55-51" stroke="#eff6ff" stroke-width="11" stroke-linecap="round"/>
+  <g transform="rotate(-43 535 223)">
+    <rect x="491" y="160" width="92" height="127" rx="24" fill="url(#metal)" stroke="#718eaf" stroke-width="6"/>
+    <rect x="507" y="177" width="60" height="23" rx="8" fill="#102d56"/>
+    <circle cx="537" cy="222" r="14" fill="#48bee8"/>
+    <path d="M524 287v38h26v-38" fill="#8ba5c4" stroke="#718eaf" stroke-width="5"/>
+    <path d="M527 325l10 30 10-30" fill="#102d56"/>
+  </g>
+  <rect x="103" y="115" width="19" height="226" rx="9" fill="#b8cbe3"/>
+  <rect x="91" y="334" width="43" height="18" rx="9" fill="#809bbd"/>
+  <rect x="598" y="333" width="45" height="22" rx="11" fill="#58c5e9" opacity=".8"/>
+</svg>

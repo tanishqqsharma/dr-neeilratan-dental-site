@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Endodontic motor</title>
+  <desc id="desc">Illustration of a rotary endodontic motor console with a contra-angle handpiece and file.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4f8ff"/><stop offset="1" stop-color="#dcecff"/></linearGradient>
+    <linearGradient id="device" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#cbd9eb"/></linearGradient>
+  </defs>
+  <rect width="720" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="597" cy="103" r="88" fill="#d2e8ff" opacity=".65"/>
+  <ellipse cx="351" cy="369" rx="223" ry="27" fill="#b7cce5" opacity=".6"/>
+  <rect x="131" y="124" width="293" height="213" rx="29" fill="url(#device)" stroke="#738faf" stroke-width="7"/>
+  <rect x="163" y="151" width="154" height="79" rx="13" fill="#122e56"/>
+  <rect x="174" y="162" width="132" height="57" rx="8" fill="#c9f5f6"/>
+  <text x="240" y="187" text-anchor="middle" fill="#12355f" font-family="Arial,sans-serif" font-size="14" font-weight="700">ENDO</text>
+  <text x="240" y="207" text-anchor="middle" fill="#147da5" font-family="Arial,sans-serif" font-size="19" font-weight="700">300 rpm</text>
+  <circle cx="361" cy="183" r="23" fill="#54c2e7" stroke="#7190b2" stroke-width="5"/>
+  <circle cx="361" cy="183" r="8" fill="#fff"/>
+  <circle cx="190" cy="279" r="11" fill="#54c2e7"/>
+  <circle cx="229" cy="279" r="11" fill="#8ba5c3"/>
+  <circle cx="268" cy="279" r="11" fill="#8ba5c3"/>
+  <path d="M425 284c48 40 82 36 110 3" fill="none" stroke="#627f9f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M532 286l28-111q5-19 22-14l21 6q18 5 13 24l-22 87q-4 17-21 14l-25-6q-20-4-16-20Z" fill="url(#device)" stroke="#718eaf" stroke-width="6"/>
+  <path d="M570 284l-19 77" stroke="#526f91" stroke-width="10" stroke-linecap="round"/>
+  <path d="M552 361l-5 27" stroke="#132f57" stroke-width="4" stroke-linecap="round"/>
+  <path d="M538 211l40 10" stroke="#55c2e5" stroke-width="7" stroke-linecap="round"/>
+  <path d="M515 173q-18-15-38 0" fill="none" stroke="#8ba5c3" stroke-width="6" stroke-linecap="round"/>
+  <rect x="161" y="337" width="231" height="12" rx="6" fill="#829bb9"/>
+</svg>
